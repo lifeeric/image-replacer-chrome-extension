@@ -7,4 +7,4 @@ To [install this extension in your browser](https://webkul.com/blog/how-to-insta
 
 Written in JavaScript using chrome getURL API
 
-# Thanks!
+# [Thanks to Codin train](https://www.youtube.com/watch?v=8zMMOdI5SOk&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=5)
