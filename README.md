@@ -1,3 +1,3 @@
 # Image Replacer Chrome extension
 
-![image](gif.gif)
+![image](./gif.gif)
